@@ -1,0 +1,10 @@
+discord-py-slash-command==3.0.3
+discord.py==1.7.3
+requests
+openai
+music-tag
+pydub
+python-dotenv
+pyppeteer
+ffmpeg
+lxml_html_clean
